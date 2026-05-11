@@ -1,6 +1,3 @@
-# Terraform Configuration for GCS Static Website
-# Copy this file to terraform.tfvars and update with your values
-
 project_id            = "your-project-id"
 region                = "us-central1"
 bucket_name           = "your-unique-bucket-name"
